@@ -1,5 +1,5 @@
-### Card Guessing Game
+# Card Guessing Game
 
 ## With Python and Tkinter
 
-In fulfillment for acads shit.
+In fulfillment for some academic stuff.
